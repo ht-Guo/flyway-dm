@@ -25,5 +25,5 @@ Flyway is a registered trademark of Boxfuse GmbH.
 
 
 *基于开源flyway-6.3.3添加对达梦数据库的支持，开箱即用。
-*在达梦中使用flyway.conf配置文件中的账户需拥有dba权限。
+*在达梦中使用时flyway.conf配置文件中的账户需拥有dba权限。
 
